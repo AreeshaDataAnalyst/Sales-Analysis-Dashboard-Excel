@@ -4,7 +4,7 @@ E-Commerce Sales Analysis Dashboard in Excel analyzing $2.29M in sales and 9,994
 ## 📊 Project Overview
 Interactive Excel dashboard built to analyze 4 years of e-commerce sales data. The dashboard processes $2,297,200.86 in sales across 9,994 orders and 37,873 units, with KPIs, YoY growth tracking, and geographic analysis.
 
-![Dashboard Preview](./E-Commerce-Sales-Dashboard.jpg)
+![Dashboard Preview](./[E-Commerce-Sales-Dashboard.jpg](https://github.com/AreeshaDataAnalyst/Sales-Analysis-Dashboard-Excel/blob/main/E-Commerse%20Sales%20Dashbard.jpg?raw=true))
 
 ## 🛠️ Tools & Skills
 - **Excel**: Pivot Tables, Power Query, Pivot Charts, Slicers, Conditional Formatting
